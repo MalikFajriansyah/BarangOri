@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarangOri</string>
+    <string name="barang_name">barang_name</string>
+    <string name="detail">detail</string>
+</resources>
